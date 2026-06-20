@@ -1,0 +1,1 @@
+# HaskellCodeWars_Solutions
